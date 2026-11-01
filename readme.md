@@ -41,7 +41,11 @@ Municipal teams struggle with verification, prioritization, and progress visibil
 
 **RaastaAI closes this gap.**
 
-<video src="https://github.com/user-attachments/assets/93b91a33-14c7-432e-b326-757a63f3016a" controls width="100%"></video>
+
+
+https://github.com/user-attachments/assets/df99b845-ad30-4f09-88ea-8defb963a1e6
+
+
 
 ---
 
