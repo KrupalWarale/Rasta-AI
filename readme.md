@@ -108,7 +108,7 @@ A single platform that turns citizen reports into tracked municipal action.
 | 🗺️ **Maps & Location** | Leaflet · OpenStreetMap · Browser Geolocation API |
 | 📊 **UI & Analytics** | Recharts · Motion · Lucide React |
 | 💾 **Data Persistence** | Browser LocalStorage *(Demo)* |
-<img width="1024" height="154" alt="image" src="https://github.com/user-attachments/assets/c809cb8e-3d25-4ca9-9e6d-5a3c05b42564" />
+
 
 
 ##  Quick Start
