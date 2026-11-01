@@ -1,5 +1,16 @@
+
+
+
+<div align="center">
+
 <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/bc7b9027-4d93-4fa5-a274-bac840882165" />
 
+<br/><br/>
+
+# RaastaAI
+**Smart Road Issue Reporting & Municipal Resolution Platform**
+
+<br/>
 # RaastaAI
 **Smart Road Issue Reporting & Municipal Resolution Platform**
 
