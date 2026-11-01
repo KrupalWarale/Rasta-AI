@@ -1,0 +1,6 @@
+{
+  "name": "RaastaAI - Smart Road Issue Reporting and Resolution",
+  "description": "Civic technology platform connecting citizens and municipal authorities to report, verify, assign, repair, and resolve road issues with real-time tracking and maps.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

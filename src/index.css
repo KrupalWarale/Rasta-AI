@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+:root {
+  --primary-navy: #142D4E;
+  --accent-green: #16A36A;
+  --bg-light: #F5F7FA;
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  background-color: #F5F7FA;
+  color: #1e293b;
+  min-height: 100vh;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Custom leaflet marker styling fix */
+.leaflet-container {
+  font-family: inherit;
+  z-index: 10;
+}
