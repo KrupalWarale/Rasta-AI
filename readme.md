@@ -75,6 +75,7 @@ A single platform that turns citizen reports into tracked municipal action.
 ---
 
 ### Features
+<img width="1236" height="292" alt="{E2B7AE51-B14D-4FF3-AC2F-F8F18F057C7F}" src="https://github.com/user-attachments/assets/c0f1519a-7ed2-4235-9ed8-70a16fd774d4" />
 
 - **Citizen Reporting** — Photos, descriptions & GPS location
 - **AI Analysis** — Google Gemini vision for road damage assessment
@@ -83,7 +84,6 @@ A single platform that turns citizen reports into tracked municipal action.
 - **Lifecycle Tracking** — Full visibility from submission to resolution
 - **Repair Monitoring** — Progress updates + completion evidence
 - **Analytics** — Clear complaint statistics and trends
-<img width="1236" height="292" alt="{E2B7AE51-B14D-4FF3-AC2F-F8F18F057C7F}" src="https://github.com/user-attachments/assets/c0f1519a-7ed2-4235-9ed8-70a16fd774d4" />
 
 
 
@@ -91,20 +91,10 @@ A single platform that turns citizen reports into tracked municipal action.
 ### Complaint LifeCycle 
 <img width="836" height="302" alt="{66E5DB3F-1718-4161-964E-FFFDE2246391}" src="https://github.com/user-attachments/assets/b3f09e66-4d79-4c4e-96e6-66f1fc2c66f8" />
 
-
+---
 ### Screenshots
 
-<p align="center">
-  <img src="" width="48%" alt="Citizen Reporting"/>
-  &nbsp;
-  <img src="" width="48%" alt="Interactive Map"/>
-</p>
 
-<p align="center">
-  <img src="" width="48%" alt="Municipal Dashboard"/>
-  &nbsp;
-  <img src="" width="48%" alt="Analytics"/>
-</p>
 
 ### 🛠️ Technology Stack
 
