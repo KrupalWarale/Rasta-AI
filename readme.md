@@ -66,6 +66,37 @@ A single platform that turns citizen reports into tracked municipal action.
 ---
 ### Screenshots
 
+<h2 align="center">📸 Application Screenshots</h2>
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://github.com/user-attachments/assets/b2f7fe2e-c8c1-4607-8918-487b46f7fdfd"
+           width="100%" alt="Citizen Portal"/>
+    <br/>
+    <b>Citizen Portal</b>
+    <br/>
+    <sub>Report road issues</sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://github.com/user-attachments/assets/bc7cdb23-13b2-406d-af46-368d1f59bf20"
+           width="100%" alt="Municipal Dashboard"/>
+    <br/>
+    <b>Municipal Dashboard</b>
+    <br/>
+    <sub>Manage complaints</sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://github.com/user-attachments/assets/7f3f5099-341d-4297-9053-1b03a53d0acf"
+           width="100%" alt="Analytics Dashboard"/>
+    <br/>
+    <b>Analytics & Monitoring</b>
+    <br/>
+    <sub>Visualize road issues</sub>
+    </td>
+  </tr>
+</table>
+
 
 
 ### 🛠️ Technology Stack
