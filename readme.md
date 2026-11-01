@@ -83,7 +83,8 @@ A single platform that turns citizen reports into tracked municipal action.
 - **Lifecycle Tracking** — Full visibility from submission to resolution
 - **Repair Monitoring** — Progress updates + completion evidence
 - **Analytics** — Clear complaint statistics and trends
-  <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/e4036ddf-82b8-4ce9-b0fb-3628e782f977" />
+<img width="1236" height="292" alt="{E2B7AE51-B14D-4FF3-AC2F-F8F18F057C7F}" src="https://github.com/user-attachments/assets/c0f1519a-7ed2-4235-9ed8-70a16fd774d4" />
+
 
 
 ---
