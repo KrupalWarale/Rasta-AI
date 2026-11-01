@@ -22,7 +22,9 @@
 [![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)](https://ai.google.dev)
 
 <br/>
-
+<p align="center">
+  🏆 <b>Catalyst Hackathon</b> &nbsp;·&nbsp; ⚡ <b>Unstop</b> &nbsp;·&nbsp; ☁️ <b>AWS</b>
+</p>
 *AI-powered civic platform connecting citizens and municipal authorities*
 
 </div>
