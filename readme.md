@@ -10,6 +10,7 @@
 
 # RaastaAI
 **Smart Road Issue Reporting & Municipal Resolution Platform**
+---
 **LIVE DEMO** https://rasta-ai-ecru.vercel.app
 
 <br/>
