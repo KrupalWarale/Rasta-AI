@@ -45,37 +45,11 @@ Municipal teams struggle with verification, prioritization, and progress visibil
 
 A single platform that turns citizen reports into tracked municipal action.
 
-<table align="center">
-  <thead>
-    <tr>
-      <th align="center">👤 Citizen</th>
-      <th align="center">🏛️ Municipal Authority</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">Submit photo + location + description</td>
-      <td align="center">Review, verify or reject</td>
-    </tr>
-    <tr>
-      <td align="center">AI-assisted damage analysis</td>
-      <td align="center">Assign repair work</td>
-    </tr>
-    <tr>
-      <td align="center">Track status in real time</td>
-      <td align="center">Record progress & upload evidence</td>
-    </tr>
-    <tr>
-      <td align="center">View issues on interactive map</td>
-      <td align="center">Analytics dashboard</td>
-    </tr>
-  </tbody>
-</table>
+<img width="1236" height="292" alt="{E2B7AE51-B14D-4FF3-AC2F-F8F18F057C7F}" src="https://github.com/user-attachments/assets/c0f1519a-7ed2-4235-9ed8-70a16fd774d4" />
 
 ---
 
 ### Features
-<img width="1236" height="292" alt="{E2B7AE51-B14D-4FF3-AC2F-F8F18F057C7F}" src="https://github.com/user-attachments/assets/c0f1519a-7ed2-4235-9ed8-70a16fd774d4" />
 
 - **Citizen Reporting** — Photos, descriptions & GPS location
 - **AI Analysis** — Google Gemini vision for road damage assessment
@@ -119,9 +93,10 @@ cd Rasta-AI
 npm install
 # Start development server
 npm run dev
+```
 
 <img width="1024" height="223" alt="image" src="https://github.com/user-attachments/assets/3e32ba07-1064-45aa-ae0a-fc1d440dc0bf" />
 
-<img width="1024" height="223" alt="image" src="https://github.com/user-attachments/assets/a4d75bf3-7488-46ba-9fdd-d0ebb8f9a039" />
+
 
 
