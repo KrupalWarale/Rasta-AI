@@ -18,9 +18,42 @@ A civic technology platform designed to connect everyday road users with municip
   <img alt="License" src="https://img.shields.io/badge/License-MIT-green.svg" />
 </p>
 
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/867145e2-2328-4b68-9824-14f1a379cb4c" width="32%" />
+  <img src="https://github.com/user-attachments/assets/ac2d6359-40d4-42cb-a7e3-9914717b903a" width="32%" />
+  <img src="https://github.com/user-attachments/assets/7a6f56cb-f465-4fa2-b873-64ca51144a7f" width="32%" />
+</p>
 
----
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4cb3b386-2394-4021-990b-d4e88fb24921" width="32%" />
+  <img src="https://github.com/user-attachments/assets/b2bb8ed5-dae0-46fd-be92-91e8a85e0ac3" width="32%" />
+  <img src="https://github.com/user-attachments/assets/65bd4986-f539-4209-8c80-c3d813d6bc19" width="32%" />
+</p>
+
+## 🎥 Project Demo
+
+Watch the complete demonstration of **RaastaAI — Smart Road Issue Reporting & Municipal Resolution Platform**.
+
+<p align="center">
+  <a href="https://youtu.be/V5Fk328ZFYk">
+    <img src="https://img.youtube.com/vi/V5Fk328ZFYk/maxresdefault.jpg" alt="RaastaAI Project Demo" width="800">
+  </a>
+</p>
+
+<p align="center">
+  ▶️ <a href="https://youtu.be/V5Fk328ZFYk"><strong>Watch the Full Demo on YouTube</strong></a>
+</p>
+
+
+<p align="center">
+  <strong>🌍 Building Smarter Roads. Creating Safer Cities.</strong>
+  <br>
+  Powered by AI. Driven by Civic Innovation. Built for Everyone.
+</p>
+
+<p align="center">
+  ⭐ If you like RaastaAI, consider giving this repository a star!
+</p>
 
 ## Contents
 
