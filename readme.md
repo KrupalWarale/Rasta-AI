@@ -83,8 +83,13 @@ A single platform that turns citizen reports into tracked municipal action.
 - **Lifecycle Tracking** — Full visibility from submission to resolution
 - **Repair Monitoring** — Progress updates + completion evidence
 - **Analytics** — Clear complaint statistics and trends
+  <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/e4036ddf-82b8-4ce9-b0fb-3628e782f977" />
+
 
 ---
+### Complaint LifeCycle 
+<img width="836" height="302" alt="{66E5DB3F-1718-4161-964E-FFFDE2246391}" src="https://github.com/user-attachments/assets/b3f09e66-4d79-4c4e-96e6-66f1fc2c66f8" />
+
 
 ### Screenshots
 
@@ -109,18 +114,20 @@ A single platform that turns citizen reports into tracked municipal action.
 | 🗺️ **Maps & Location** | Leaflet · OpenStreetMap · Browser Geolocation API |
 | 📊 **UI & Analytics** | Recharts · Motion · Lucide React |
 | 💾 **Data Persistence** | Browser LocalStorage *(Demo)* |
+<img width="1024" height="154" alt="image" src="https://github.com/user-attachments/assets/c809cb8e-3d25-4ca9-9e6d-5a3c05b42564" />
 
-## 🚀 Quick Start
+
+##  Quick Start
 
 ```bash
 # Clone the repository
 git clone https://github.com/KrupalWarale/Rasta-AI.git
-
 # Navigate to project
 cd Rasta-AI
-
 # Install dependencies
 npm install
-
 # Start development server
 npm run dev
+
+<img width="1024" height="223" alt="image" src="https://github.com/user-attachments/assets/3e32ba07-1064-45aa-ae0a-fc1d440dc0bf" />
+
