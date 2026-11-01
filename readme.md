@@ -45,12 +45,32 @@ Municipal teams struggle with verification, prioritization, and progress visibil
 
 A single platform that turns citizen reports into tracked municipal action.
 
-| Citizen | Municipal |
-|:-------:|:---------:|
-| Submit photo + location + description | Review, verify or reject |
-| AI-assisted damage analysis | Assign repair work |
-| Track status in real time | Record progress & upload evidence |
-| View issues on interactive map | Analytics dashboard |
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">👤 Citizen</th>
+      <th align="center">🏛️ Municipal Authority</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Submit photo + location + description</td>
+      <td align="center">Review, verify or reject</td>
+    </tr>
+    <tr>
+      <td align="center">AI-assisted damage analysis</td>
+      <td align="center">Assign repair work</td>
+    </tr>
+    <tr>
+      <td align="center">Track status in real time</td>
+      <td align="center">Record progress & upload evidence</td>
+    </tr>
+    <tr>
+      <td align="center">View issues on interactive map</td>
+      <td align="center">Analytics dashboard</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
