@@ -1,2 +1,0 @@
-# Rasta-AI
-catalyst submission 
