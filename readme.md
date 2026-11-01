@@ -35,9 +35,7 @@
 
 ### The Problem
 
-Road defects — potholes, cracks, waterlogging — put public safety at risk.  
-Citizens lack a reliable way to report and track issues.  
-Municipal teams struggle with verification, prioritization, and progress visibility.
+RaastaAI is an AI-powered smart road issue reporting and municipal resolution platform that bridges the gap between citizens and municipal authorities. It enables citizens to report road infrastructure problems such as potholes, damaged roads, cracks and waterlogging through photographs, descriptions and geographical locations. Integrated with Google Gemini for AI-assisted image analysis and Leaflet with OpenStreetMap for interactive geographical visualization, the platform helps municipal authorities review, verify, assign and track complaints throughout the resolution process. With dedicated citizen and administrative portals, complaint lifecycle tracking, repair evidence and analytics dashboards, RaastaAI aims to make civic reporting more accessible, transparent and accountable.
 
 **RaastaAI closes this gap.**
 
