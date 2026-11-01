@@ -66,7 +66,7 @@ A single platform that turns citizen reports into tracked municipal action.
 ---
 ### Screenshots
 
-<h2 align="center">📸 Application Screenshots</h2>
+
 
 <table>
   <tr>
